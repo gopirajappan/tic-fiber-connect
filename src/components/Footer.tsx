@@ -73,7 +73,7 @@ const Footer = () => {
               <li className="flex items-center gap-2">
                 <Globe className="w-4 h-4 text-accent" />
                 <a href="https://www.ticfiber.com" target="_blank" rel="noopener noreferrer" className="hover:text-secondary transition-colors">
-                  www.ticfiber.com
+                  www.ticfiber.in
                 </a>
               </li>
             </ul>
